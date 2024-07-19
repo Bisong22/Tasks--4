@@ -1,0 +1,22 @@
+Expert Systems in Agriculture, specifically in Crop Disease Diagnosis.
+
+Expert System: "CropDoc"
+
+CropDoc is an expert system designed to diagnose crop diseases accurately
+and provide recommendations for treatment. It uses a knowledge base 
+of crop diseases, symptoms, and treatment options to provide expert advice to farmers, 
+agronomists, and researchers.
+
+How it works:
+
+1. User inputs symptoms and observations about the affected crop.
+2. CropDoc analyzes the input data and matches it with its knowledge base.
+3. The system provides a diagnosis and recommends treatment options.
+4. Users can interact with CropDoc to refine the diagnosis and get additional advice.
+
+NEW AREA: 
+Expert System for Vertical Farming Optimization
+
+Vertical farming is a rapidly growing method of growing plants in vertically stacked layers, 
+often in indoor environments. While it offers many benefits, optimizing vertical farm
+operations can be complex
